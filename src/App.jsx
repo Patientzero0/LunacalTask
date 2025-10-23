@@ -5,7 +5,7 @@ import GalleryWidget from "./components/GalleryWidget";
 
 export default function App() {
   return (
-    <div className="min-h-screen" style={{ backgroundColor: '#343332' }}>
+    <div className="min-h-screen" style={{ backgroundColor: '#28292F' }}>
       <div className="min-h-screen flex">
         <div
           className="hidden md:block md:w-1/2 bg-transparent"
