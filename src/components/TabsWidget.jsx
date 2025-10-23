@@ -19,7 +19,7 @@ export default function TabsWidget() {
       id: "recommended",
       title: "Recommended",
       content:
-        "Hello! I'm Dave, your sales rep here from Salesforce. I've been working at this awesome company for 3 years now.\n\nI was born and raised in Albany, NY & have been living in Santa Carla for the past 10 years my wife Tiffany and my 4 year old twin daughters- Emma andd i have been here adnuifbriiubsrbsrougbsourbgosrgbosrgbuosrbgosrbggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggbgggggggggggbbrsbogusrgso",
+        "Hello! I'm Dave, your sales rep here from Salesforce. I've been working at this awesome company for 3 years now.\n\nI was born and raised in Albany, NY & have been living in Santa Carla for the past 10 years my wife Tiffany and my 4 year old twin daughters- Emma and Ella.",
     },
   ];
 
