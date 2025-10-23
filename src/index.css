@@ -1,0 +1,6 @@
+/* Disable stylelint rule that flags Tailwind's at-rules as unknown in this file */
+/* stylelint-disable at-rule-no-unknown */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
